@@ -10,4 +10,4 @@ Simply click the shortcut 'Move_Mouse' program and a console window will appear 
 
 Done. Easy Peasy.
 
-This program also uses less CPU/Memory versus Move Mouse, which is just icing on the cake.
+This program also uses less cpu/memory versus Move Mouse, which is just icing on the cake.
