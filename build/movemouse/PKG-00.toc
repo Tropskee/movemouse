@@ -1,5 +1,5 @@
 ('C:\\Users\\czaozo\\OneDrive - '
- 'BP\\Desktop\\move_mouse\\build\\movemouse\\movemouse.pkg',
+ 'BP\\Desktop\\MoveMouse\\build\\movemouse\\movemouse.pkg',
  {'BINARY': 1,
   'DATA': 1,
   'EXECUTABLE': 1,
@@ -10,7 +10,7 @@
   'SPLASH': 1},
  [('PYZ-00.pyz',
    'C:\\Users\\czaozo\\OneDrive - '
-   'BP\\Desktop\\move_mouse\\build\\movemouse\\PYZ-00.pyz',
+   'BP\\Desktop\\MoveMouse\\build\\movemouse\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'C:\\Users\\czaozo\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.pyo',
@@ -46,7 +46,7 @@
    'C:\\Users\\czaozo\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
   ('movemouse',
-   'C:\\Users\\czaozo\\OneDrive - BP\\Desktop\\move_mouse\\movemouse.py',
+   'C:\\Users\\czaozo\\OneDrive - BP\\Desktop\\MoveMouse\\movemouse.py',
    'PYSOURCE')],
  True,
  False,
